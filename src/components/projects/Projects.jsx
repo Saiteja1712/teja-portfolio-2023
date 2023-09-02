@@ -7,7 +7,7 @@ const data = [
     id :1,
     image : P1,
     title : 'Snakes And Ladders',
-    github : 'https://github.com/SaiTeja44d'
+    github : 'https://github.com/SaiTeja44d/SnakesAndLaddersConsole'
   },
   {
     id :2,
@@ -19,26 +19,26 @@ const data = [
     id :3,
     image : P1,
     title : 'Drum Kit',
-    github : 'https://github.com/SaiTeja44d'
+    github : 'https://github.com/SaiTeja44d/drums'
   },
-  // {
-  //   id :4,
-  //   image : P1,
-  //   title : 'Project4',
-  //   github : 'https://github.com/SaiTeja44d'
-  // },
-  // {
-  //   id :5,
-  //   image : P1,
-  //   title : 'Project5',
-  //   github : 'https://github.com/SaiTeja44d'
-  // },
-  // {
-  //   id :6,
-  //   image : P1,
-  //   title : 'Project6',
-  //   github : 'https://github.com/SaiTeja44d'
-  // }
+  {
+    id :4,
+    image : P1,
+    title : 'QR-Code Generator',
+    github : 'https://github.com/SaiTeja44d/QR-Code-Generator-teja-node'
+  },
+  {
+    id :5,
+    image : P1,
+    title : 'Dice Game',
+    github : 'https://github.com/SaiTeja44d/DiceGame-Project'
+  },
+  {
+    id :6,
+    image : P1,
+    title : 'This Portfolio',
+    github : 'https://github.com/SaiTeja44d/teja-portfolio-2023'
+  }
 ]
 const Projects = () => {
   return (

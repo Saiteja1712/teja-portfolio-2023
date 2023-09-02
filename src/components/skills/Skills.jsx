@@ -87,6 +87,13 @@ const Skills = () => {
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
+            <article className = "skills__details">
+              <BsPatchCheckFill className='skills__details-icon' />
+              <div>
+                <h4>REST APIs</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
           </div>
         </div>
       </div>
