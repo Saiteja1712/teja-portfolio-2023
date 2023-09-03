@@ -26,12 +26,12 @@ const Contact = () => {
             <MdOutlineEmail className='co-icon'/>
             <h4>Email</h4>
             <h5>k.saiteja456@gmail.com</h5>
-            <a href="mailto:k.saiteja456@gmail.com" target='_blank'>Send a Message</a>
+            <a href="mailto:k.saiteja456@gmail.com" target='_blank' rel='noreferrer'>Send a Message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='co-icon'/>
             <h4>Whatsapp</h4>
-            <a href="https://api.whatsapp.com/send?phone=916303952937" target = '_blank'>Send a Message</a>
+            <a href="https://api.whatsapp.com/send?phone=916303952937" target = '_blank' rel="noreferrer">Send a Message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

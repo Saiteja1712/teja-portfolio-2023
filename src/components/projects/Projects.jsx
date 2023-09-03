@@ -60,7 +60,7 @@ const Projects = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className="projects__item-HeaderButtons">
-                  <a href= {github} className='btn' target='_blank'>GitHub</a>
+                  <a href= {github} className='btn' target='_blank' rel='noreferrer'>GitHub</a>
                 </div>
               </article> )
           })
