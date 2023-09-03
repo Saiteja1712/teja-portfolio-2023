@@ -1,6 +1,10 @@
 import React from 'react'
 import './projects.css'
 import P1 from "../../assets/project1.avif"
+// import P2 from "../../assets/drums.png"
+// import P4 from "../../assets/qr.png"
+// import P5 from "../../assets/dice.png"
+// import P6 from "../../assets/pf.png"
 
 const data = [
   {
@@ -12,14 +16,14 @@ const data = [
   {
     id :2,
     image : P1,
-    title : 'Todo List',
-    github : 'https://github.com/SaiTeja44d'
+    title : 'Drum Kit',
+    github : 'https://github.com/SaiTeja44d/drums'
   },
   {
     id :3,
     image : P1,
-    title : 'Drum Kit',
-    github : 'https://github.com/SaiTeja44d/drums'
+    title : 'Todo List',
+    github : 'https://github.com/SaiTeja44d'
   },
   {
     id :4,
