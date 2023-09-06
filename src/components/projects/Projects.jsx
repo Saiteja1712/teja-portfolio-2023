@@ -23,7 +23,7 @@ const data = [
     id :3,
     image : P1,
     title : 'Todo List',
-    github : 'https://github.com/SaiTeja44d'
+    github : 'https://github.com/SaiTeja44d/ToDoList-2023-KGST'
   },
   {
     id :4,
