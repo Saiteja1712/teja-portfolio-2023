@@ -25,7 +25,7 @@ const About = () => {
               <h5>LeetCode</h5>
               <small>Knight Badge Holder</small>
               <br />
-              <small>Highest Rating : 2003</small>
+              <small>Highest Rating : 2021</small>
             </article>
 
             <article className = "about__card">

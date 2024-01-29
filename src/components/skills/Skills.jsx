@@ -22,7 +22,7 @@ const Skills = () => {
               <BsPatchCheckFill className='skills__details-icon' />
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Intermediate</small>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className = "skills__details">
@@ -42,8 +42,15 @@ const Skills = () => {
             <article className = "skills__details">
               <BsPatchCheckFill className='skills__details-icon' />
               <div>
+                <h4>Next.js</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className = "skills__details">
+              <BsPatchCheckFill className='skills__details-icon' />
+              <div>
                 <h4>Tailwind</h4>
-                <small className='text-light'>Basic</small>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
