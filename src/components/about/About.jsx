@@ -25,7 +25,7 @@ const About = () => {
               <h5>LeetCode</h5>
               <small>Knight Badge Holder</small>
               <br />
-              <small>Highest Rating : 2021</small>
+              <small>Highest Rating : 2028</small>
             </article>
 
             <article className = "about__card">
@@ -44,9 +44,9 @@ const About = () => {
           </div>
           <p>
           I am self-motivated and a passionate programmer with 
- practical knowledge on programming and looking for an 
- opportunity which will provide development, growth and 
- make use of my existing skills
+          practical knowledge on programming and looking for an 
+          opportunity which will provide development, growth and 
+          make use of my existing skills
           </p>
           <a href='#contact' className = 'btn btn-primary'>Let's Talk</a>
         </div>
